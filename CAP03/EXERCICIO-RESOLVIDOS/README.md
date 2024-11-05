@@ -1,102 +1,102 @@
-Question 1:
-Write a program that receives four integers, calculates, and displays the sum of those numbers.
+Questão 1:
+Escreva um programa que receba quatro números inteiros, calcule e exiba a soma desses números.
 
-Question 2:
-Write a program that receives three grades, calculates, and displays the arithmetic mean.
+Questão 2:
+Escreva um programa que receba três notas, calcule e exiba a média aritmética.
 
-Question 3:
-Write a program that receives three grades and their respective weights, calculates, and displays the weighted average.
+Questão 3:
+Escreva um programa que receba três notas e seus respectivos pesos, calcule e exiba a média ponderada.
 
-Question 4:
-Write a program that receives an employee's salary, calculates, and displays the new salary, given that it was increased by 25%.
+Questão 4:
+Escreva um programa que receba o salário de um funcionário, calcule e exiba o novo salário, sabendo que ele foi aumentado em 25%.
 
-Question 5:
-Write a program that receives an employee's salary and the percentage of increase, calculates, and displays the amount of the increase and the new salary.
+Questão 5:
+Escreva um programa que receba o salário de um funcionário e a porcentagem de aumento, calcule e exiba o valor do aumento e o novo salário.
 
-Question 6:
-Write a program that receives an employee's base salary, calculates, and displays the salary to be received, knowing that the employee has a 5% bonus on the base salary and pays 7% in taxes also based on the base salary.
+Questão 6:
+Escreva um programa que receba o salário base de um funcionário, calcule e exiba o salário a ser recebido, sabendo que o funcionário recebe um bônus de 5% sobre o salário base e paga 7% de impostos também sobre o salário base.
 
-Question 7:
-Write a program that receives an employee's base salary, calculates, and displays the salary to be received, knowing that the employee has a R$ 50 bonus and pays 10% in taxes on the base salary.
+Questão 7:
+Escreva um programa que receba o salário base de um funcionário, calcule e exiba o salário a ser recebido, sabendo que o funcionário recebe um bônus de R$ 50,00 e paga 10% de impostos sobre o salário base.
 
-Question 8:
-Write a program that receives the amount of a deposit and the interest rate, calculates, and displays the amount of interest and the total value after the interest.
+Questão 8:
+Escreva um programa que receba o valor de um depósito e a taxa de juros, calcule e exiba o valor dos juros e o valor total após os juros.
 
-Question 9:
-Write a program that calculates and displays the area of a triangle. The formula is: Area = (base * height) / 2.
+Questão 9:
+Escreva um programa que calcule e exiba a área de um triângulo. A fórmula é: Área = (base * altura) / 2.
 
-Question 10:
-Write a program that calculates and displays the area of a circle. The formula is: Area = π * R².
+Questão 10:
+Escreva um programa que calcule e exiba a área de um círculo. A fórmula é: Área = π * R².
 
-Question 11:
-Write a program that receives a positive number greater than zero, calculates, and displays:
-a) The square of the number;
-b) The cube of the number;
-c) The square root of the number;
-d) The cube root of the number.
+Questão 11:
+Escreva um programa que receba um número positivo maior que zero, calcule e exiba:
+a) O quadrado do número;
+b) O cubo do número;
+c) A raiz quadrada do número;
+d) A raiz cúbica do número.
 
-Question 12:
-Write a program that receives two numbers greater than zero, calculates, and displays one raised to the power of the other.
+Questão 12:
+Escreva um programa que receba dois números maiores que zero, calcule e exiba um elevado ao valor do outro.
 
-Question 13:
-Write a program that receives a measure in feet, performs the following conversions, and displays the results:
-a) Inches;
-b) Yards;
-c) Miles.
+Questão 13:
+Escreva um programa que receba uma medida em pés, realize as seguintes conversões e exiba os resultados:
+a) Polegadas;
+b) Jardas;
+c) Milhas.
 
-Question 14:
-Write a program that receives a person's birth year and the current year, calculates, and displays:
-a) The person's age;
-b) How old the person will be in 2050.
+Questão 14:
+Escreva um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e exiba:
+a) A idade da pessoa;
+b) Quantos anos a pessoa terá em 2050.
 
-Question 15:
-The cost to the consumer of a new car is the sum of the factory price, the distributor's profit percentage, and the taxes applied to the factory price. Write a program that receives the factory price of a vehicle, the distributor's profit percentage, and the tax percentage, then calculates and displays:
-a) The value corresponding to the distributor's profit;
-b) The value corresponding to the taxes;
-c) The final price of the vehicle.
+Questão 15:
+O custo ao consumidor de um carro novo é a soma do preço de fábrica, a porcentagem de lucro do distribuidor e os impostos aplicados sobre o preço de fábrica. Escreva um programa que receba o preço de fábrica de um veículo, a porcentagem de lucro do distribuidor e a porcentagem de impostos, e depois calcule e exiba:
+a) O valor correspondente ao lucro do distribuidor;
+b) O valor correspondente aos impostos;
+c) O preço final do veículo.
 
-Question 16:
-Write a program that receives the number of hours worked and the value of the minimum wage, calculates, and displays the salary to be received, following these rules:
-a) Each hour worked is worth half the minimum wage.
-b) The gross salary is the number of hours worked multiplied by the value of an hour worked.
-c) The tax is 3% of the gross salary.
-d) The salary to be received is the gross salary minus the tax.
+Questão 16:
+Escreva um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e exiba o salário a ser recebido, seguindo estas regras:
+a) Cada hora trabalhada vale metade do salário mínimo.
+b) O salário bruto é o número de horas trabalhadas multiplicado pelo valor de uma hora trabalhada.
+c) O imposto é 3% do salário bruto.
+d) O salário a ser recebido é o salário bruto menos o imposto.
 
-Question 17:
-A worker received his salary and deposited it in his bank account. This worker wrote two checks and now wants to know his current balance. It is known that each withdrawal operation pays a CPMF fee of 0.38%, and the initial account balance is zero.
+Questão 17:
+Um trabalhador recebeu seu salário e depositou em sua conta bancária. Esse trabalhador escreveu dois cheques e agora quer saber seu saldo atual. Sabe-se que cada operação de saque paga uma taxa de CPMF de 0,38%, e o saldo inicial da conta é zero.
 
-Question 18:
-Pedro bought a bag of pet food with a weight in kilograms. He has two cats, for which he provides the same amount of food in grams. Write a program that receives the weight of the bag of food and the amount of food given to each cat, calculates, and displays how much food will remain in the bag after five days.
+Questão 18:
+Pedro comprou um saco de ração para animais com um peso em quilos. Ele tem dois gatos, aos quais dá a mesma quantidade de ração em gramas. Escreva um programa que receba o peso do saco de ração e a quantidade de ração dada a cada gato, calcule e exiba quanto de ração restará no saco após cinco dias.
 
-Question 19:
-Each step of a staircase has a height of X. Write a program that receives this height and the height the user wants to reach by climbing the stairs, calculates, and displays how many steps the user should climb to reach their goal, without worrying about the user's height. All measurements should be in meters.
+Questão 19:
+Cada degrau de uma escada tem uma altura de X. Escreva um programa que receba essa altura e a altura que o usuário quer alcançar subindo os degraus, calcule e exiba quantos degraus o usuário deverá subir para atingir o objetivo, sem se preocupar com a altura do usuário. Todas as medidas devem estar em metros.
 
-Question 20:
-Write a program that receives the angle (in degrees) formed by a ladder resting on the ground and leaning against a wall, and the height of the wall where the top of the ladder touches. The program should calculate and display the length of the ladder.
+Questão 20:
+Escreva um programa que receba o ângulo (em graus) formado por uma escada apoiada no chão e encostada em uma parede, e a altura da parede onde o topo da escada toca. O programa deve calcular e exibir o comprimento da escada.
 
-Question 21:
-A person wants to hang a picture on a wall. Write a program to calculate and show the distance the ladder should be from the wall. The person should provide the ladder's length and the height at which they want to hang the picture.
+Questão 21:
+Uma pessoa deseja pendurar um quadro em uma parede. Escreva um programa para calcular e mostrar a distância que a escada deve estar da parede. A pessoa deve fornecer o comprimento da escada e a altura a que deseja pendurar o quadro.
 
-Question 22:
-It is known that a kilowatt of energy costs one-fifth of the minimum wage. Write a program that receives the value of the minimum wage and the number of kilowatt-hours consumed by a household. The program should calculate and display:
-a) The cost per kilowatt;
-b) The total amount to be paid by the household;
-c) The amount to be paid with a 15% discount.
+Questão 22:
+Sabe-se que um quilowatt de energia custa um quinto do salário mínimo. Escreva um programa que receba o valor do salário mínimo e o número de quilowatt-horas consumidas por uma residência. O programa deve calcular e exibir:
+a) O custo por quilowatt;
+b) O valor total a ser pago pela residência;
+c) O valor a ser pago com um desconto de 15%.
 
-Question 23:
-Write a program that receives a real number, finds, and displays:
-a) The integer part of this number;
-b) The fractional part of this number;
-c) The rounded value of this number.
+Questão 23:
+Escreva um programa que receba um número real, encontre e exiba:
+a) A parte inteira deste número;
+b) A parte fracionária deste número;
+c) O valor arredondado deste número.
 
-Question 24:
-Write a program that receives a time value in hours and minutes (as a real number), calculates, and displays the time in minutes only.
+Questão 24:
+Escreva um programa que receba um valor de tempo em horas e minutos (como número real), calcule e exiba o tempo em minutos apenas.
 
-Question 25:
-Write a program that receives the cost of a theatrical show and the price of a ticket for that show. The program should calculate and display the number of tickets that need to be sold to at least cover the cost of the show.
+Questão 25:
+Escreva um programa que receba o custo de um espetáculo teatral e o preço do ingresso para esse espetáculo. O programa deve calcular e exibir o número de ingressos que precisam ser vendidos para cobrir pelo menos o custo do espetáculo.
 
-Fundamentals of Computer Programming 2012 
-By: Ana Fernanda Gomes Ascencio and
+Fundamentos de Programação de Computadores 2012
+Por: Ana Fernanda Gomes Ascencio e
 Edilene Aparecida Veneruchi de Campos
 
-The proposed activity is found in the third chapter
+A atividade proposta está no terceiro capítulo.
