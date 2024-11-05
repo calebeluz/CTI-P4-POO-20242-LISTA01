@@ -3,12 +3,12 @@
 
 ---
 
-This README presents 25 **Object-Oriented Programming (OOP)** questions, designed to support learning this methodology at the **Maranguape campus**, under the guidance of Roger Moura Sarmento. The questions were developed in **Java** and aim to help students understand and apply the fundamental concepts of OOP.
 
-With a basic level of difficulty, the questions are designed to provide a practical introduction to OOP, allowing students to understand and implement key concepts in a simple and straightforward manner. By solving these questions, students will have the opportunity to strengthen their **programming logic** skills and learn how to use Java to solve basic yet essential problems in software development.
+Este README apresenta 25 questões de Programação Orientada a Objetos (POO), elaboradas para apoiar o aprendizado dessa metodologia no campus de Maranguape, sob a orientação de Roger Moura Sarmento. As questões foram desenvolvidas em Java e têm como objetivo ajudar os alunos a entender e aplicar os conceitos fundamentais de POO.
 
-The material is structured to ensure that students can apply what they've learned in practical scenarios, preparing them to move on to more complex OOP topics in the future.
+Com um nível de dificuldade básico, as questões foram criadas para fornecer uma introdução prática à POO, permitindo que os alunos compreendam e implementem os conceitos chave de maneira simples e direta. Ao resolver essas questões, os alunos terão a oportunidade de fortalecer suas habilidades em lógica de programação e aprender a utilizar o Java para resolver problemas básicos, porém essenciais, no desenvolvimento de software.
 
+O material está estruturado para garantir que os alunos possam aplicar o que aprenderam em cenários práticos, preparando-os para avançar para tópicos mais complexos de POO no futuro.
 ---
 
 
