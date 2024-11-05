@@ -96,7 +96,7 @@ Question 25:
 Write a program that receives the cost of a theatrical show and the price of a ticket for that show. The program should calculate and display the number of tickets that need to be sold to at least cover the cost of the show.
 
 Fundamentals of Computer Programming 2012 
-By: Ana Fernanda Gomes Ascencio
+By: Ana Fernanda Gomes Ascencio and
 Edilene Aparecida Veneruchi de Campos
 
 The proposed activity is found in the third chapter
